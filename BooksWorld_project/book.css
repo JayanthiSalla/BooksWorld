@@ -1,0 +1,71 @@
+.logo{
+    display:flex;
+    flex-direction: column;
+    gap:0px;
+    padding-top:0px;
+}
+.logo-img{
+    width:70px;
+    height:70px;
+}
+.banner{
+    display:flex;
+    flex-direction: column;
+    padding-top:50px;
+    width:600px;
+}
+.text-1{
+    font-size:50px;
+    color:white;
+}
+.text-2{
+    font-size:33px;
+    color:white;
+}
+.s1{
+    display: flex;
+    flex-direction: row;
+    gap: 220px;
+    font-size: 35px;
+    color: white;
+    padding-top:120px;
+    padding-bottom:30px;
+    padding-right:25px;
+    padding-left: 30px;
+}
+.s2{
+    display: flex;
+    flex-direction: row;
+    gap: 220px;
+    font-size: 35px;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 25px;
+    padding-left: 30px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    gap: 300px;
+    padding-top:20px;
+}
+.aboutus{
+    padding-left: 20px;
+}
+.text{
+    font-size:28px;
+    color:white;
+    text-align:center;
+}
+.upload{
+    display: flex;
+    flex-direction: row;
+    padding: 25px;
+    gap: 200px;
+}
+.upload-text{
+    font-size: 30px;
+    color: white;
+}
